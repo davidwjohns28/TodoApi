@@ -1,0 +1,14 @@
+C:\Azure\TodoApi\TodoApi\bin\Debug\netcoreapp2.2\TodoApi.deps.json
+C:\Azure\TodoApi\TodoApi\bin\Debug\netcoreapp2.2\TodoApi.runtimeconfig.json
+C:\Azure\TodoApi\TodoApi\bin\Debug\netcoreapp2.2\TodoApi.runtimeconfig.dev.json
+C:\Azure\TodoApi\TodoApi\bin\Debug\netcoreapp2.2\TodoApi.dll
+C:\Azure\TodoApi\TodoApi\bin\Debug\netcoreapp2.2\TodoApi.pdb
+C:\Azure\TodoApi\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.csproj.CoreCompileInputs.cache
+C:\Azure\TodoApi\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.RazorAssemblyInfo.cache
+C:\Azure\TodoApi\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.RazorAssemblyInfo.cs
+C:\Azure\TodoApi\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.AssemblyInfoInputs.cache
+C:\Azure\TodoApi\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.AssemblyInfo.cs
+C:\Azure\TodoApi\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.RazorTargetAssemblyInfo.cache
+C:\Azure\TodoApi\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.dll
+C:\Azure\TodoApi\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.pdb
+C:\Azure\TodoApi\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.csprojAssemblyReference.cache
